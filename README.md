@@ -4,9 +4,9 @@
 
 ### Project Overview: TermDeposit Analysis(A deposit is taken or not)
 
-This project aims to predict client subscriptions to term deposits based on demographic, economic, and social factors using data collected by a bank.
+This project aims to predict client subscriptions to term deposits based on demographic, economic, and social factors using data collected by Portuguese financial institution.
 
-Initially processed in Excel and Pocessed in Jupyter Notebook, the dataset features variables such as age, job type, balance, and loan status.
+Initially processed in Excel and Jupyter Notebook, the dataset features variables such as age, job type, balance, and loan status.
 
 The analysis utilizes Python and its libraries for data manipulation, visualization, and machine learning.
 
