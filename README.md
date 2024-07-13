@@ -1,4 +1,4 @@
-# TermDeposit(Portugal Financial Institution)
+# TermDeposit(Portuguese Financial Institution)
 
 ## Financial Analysis
 
