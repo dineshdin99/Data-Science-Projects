@@ -182,7 +182,7 @@ after the data set is partfectly balanced.Then,prepare the dataset to train and 
 
 - The numerical data is standardized using "Standard Scalar"
 
-# THE DATA READY FOR MACJINE LEARNING MODEL SELECTION
+# THE DATA READY FOR MACHINE LEARNING MODEL SELECTION
 
 ## Train_data=75% AND Test_Data=25%
 
